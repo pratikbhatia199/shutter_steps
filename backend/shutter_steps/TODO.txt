@@ -1,0 +1,6 @@
+- For photos model
+	-add location_id
+	-add title
+- For locations
+	-change lat and long into floats
+	-add title field
